@@ -6,4 +6,4 @@
 // @grant        none
 // ==/UserScript==
 
-LivePlayer.getPlayerInfo().shouldConnectToAgentForHighQuality=()=>false;
+LivePlayer.getPlayerInfo().isQualityConnectToAgent=()=>false;
